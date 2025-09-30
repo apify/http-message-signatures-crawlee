@@ -1,20 +1,22 @@
-# Crawlee + Cloudflare's Pay-per-Crawl
+# Crawlee + HTTP Message Signatures
 
-This project showcases how to use [Crawlee](https://crawlee.dev/) with the new [Cloudflare's Pay-per-Crawl](https://developers.cloudflare.com/pay-per-crawl/) feature.
+This project showcases how to use [Crawlee](https://crawlee.dev/) with HTTP Message Signatures for secure and authenticated requests.
+
+This e.g. shows how to authenticate requests to [Cloudflare's Web Bot Auth](https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/) (also known as pay-per-crawl) protected endpoints.
 
 ## Usage
 
 1. Install dependencies:
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 2. Run the crawler:
 
-   ```bash
-   npm start
-   ```
+```bash
+npm start
+```
 
 3. You should see a log message indicating successful authentication.
 
