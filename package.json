@@ -1,10 +1,9 @@
 {
-    "name": "crawlee-cf-pay-per-crawl",
+    "name": "crawlee-http-message-signatures",
     "version": "0.0.1",
     "type": "module",
-    "description": "Example integration of `web-bot-auth` into Crawlee's HttpCrawler.",
+    "description": "Example integration of `web-bot-auth` with Crawlee crawlers.",
     "dependencies": {
-        "@crawlee/impit-client": "^3.15.1",
         "crawlee": "^3.0.0",
         "web-bot-auth": "^0.1.1"
     },
