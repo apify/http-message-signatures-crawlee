@@ -1,5 +1,8 @@
-// This is a testing-only private key/public key pair described in RFC 9421 Appendix B.1.4
-// Also available at https://github.com/cloudflareresearch/web-bot-auth/blob/main/examples/rfc9421-keys/ed25519.json
+/**
+ * This is a testing-only private key/public key pair described in RFC 9421 Appendix B.1.4
+ *
+ * Also available at https://github.com/cloudflareresearch/web-bot-auth/blob/main/examples/rfc9421-keys/ed25519.json
+ */
 export const RFC_9421_ED25519_TEST_KEY = {
   "kty": "OKP",
   "crv": "Ed25519",
