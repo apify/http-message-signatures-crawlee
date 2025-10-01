@@ -2,7 +2,7 @@
 
 This project showcases how to use [Crawlee](https://crawlee.dev/) with HTTP Message Signatures for secure and authenticated requests.
 
-This e.g. shows how to authenticate requests to [Cloudflare's Web Bot Auth](https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/) (also known as pay-per-crawl) protected endpoints.
+This e.g. shows how to authenticate requests to [Cloudflare's Web Bot Auth](https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/) protected endpoints.
 
 ## Usage
 
